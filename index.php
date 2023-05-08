@@ -49,8 +49,15 @@ $ejercicios_array=array(
             
         ),
         
+
+    ),
+        "Tarea Examen"=>array(
+            array("act"=>
+            array("Titulo"=>"Actividad 1","Enlace"=>"./tareas/tareas_examen_php/index.php","Descripcion"=>"Primer examen ","Archivo"=>"act1.php")),
+     
+        )
     
-        ),),
+        ),
 
 );
 
